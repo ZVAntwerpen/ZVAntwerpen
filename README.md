@@ -1,8 +1,8 @@
-<img src="ZVAntwerpen_Banner.png"         />
+<img src="ZVAntwerpen_Banner.png" alt="Banner"/>
 
 ## Zandre van Antwerpen 👋
 
-🎓 Matriculant | 🖥️ Aspiring IT Professional
+🎓 Matriculant | 🖥️ Aspiring IT Professional & Programmer | 📱 Tech Enthusiast
 
 ---
 
@@ -18,22 +18,18 @@ I'm currently focusing hard on improving my skiils:
 
 ---
 
+## Skills
+-**Languages**💬: HTML, SQL, Delphi
+
+---
+
 ## Projects
-- **[Monster_Math](link-to-project)**: My Grade 10 Project - A educational game for primary school students to enhance their mathematical capabilities.
+- **[Monster_Math](link-to-project)**: My Grade 10 Project - An educational game for primary school students to enhance their mathematical capabilities.
 - **[Retail](link-to-project)**: My Grade 11 Project - A Business Management Program I created that will enable the user to keep track of their inventory.
 - **[Properties](link-to-project)**: My Grade 12 Project (🚧Currently busy with🚧) - For real estate agents to effectively manage their properties and sales.
 
 ---
 
-## Skills
--💻**Languages**: HTML, SQL, Delphi
-
----
-
-## GitHub Stats
-![Zandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
----
 
 ## Contact
 Feel free to reach out!
