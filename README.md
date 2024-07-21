@@ -1,6 +1,6 @@
 <img src="ZVAntwerpen_Banner.png" alt="Banner"/>
 
-## Zandre van Antwerpen 👋
+## Zandré van Antwerpen 👋
 
 🎓 Matriculant | 🖥️ Aspiring IT Professional & Programmer | 📱 Tech Enthusiast
 
