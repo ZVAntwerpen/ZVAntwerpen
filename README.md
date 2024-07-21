@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Zandre van Antwerpen 👋
 
-<!--
-**ZVAntwerpen/ZVAntwerpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Matriculant | 🖥️ Aspiring IT Professional
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm a high school student in Gauteng, South Africa, passionate about technology and programming. I love exploring new tech, solving problems, and learning new things every day.
+
+---
+
+## Projects
+- **[Project Name](link-to-project)**: Brief description of the project.
+- **[Another Project](link-to-project)**: Brief description of another project.
+
+---
+
+## Skills
+-💻 **Languages**: HTML, Delphi
+- **Tools**: Git, VS Code, GitHub
+- **Other**: Problem-solving, teamwork, leadership
+
+---
+
+## Contact
+Feel free to reach out!
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
