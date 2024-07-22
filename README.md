@@ -24,8 +24,8 @@ I'm currently focusing hard on improving my skiils:
 ---
 
 ## Projects
-- **[Monster_Math](link-to-project)**: My Grade 10 Project - An educational game for primary school students to enhance their mathematical capabilities.
-- **[Retail](link-to-project)**: My Grade 11 Project - A Business Management Program I created that will enable the user to keep track of their inventory.
+- **[Monster_Math]([link-to-project](https://github.com/ZVAntwerpen/Monster_Math))**: My Grade 10 Project - An educational game for primary school students to enhance their mathematical capabilities.
+- **[Retail]([link-to-project](https://github.com/ZVAntwerpen/Retail_App))**: My Grade 11 Project - A Business Management Program I created that will enable the user to keep track of their inventory.
 - **[Properties](link-to-project)**: My Grade 12 Project (🚧Currently busy with🚧) - For real estate agents to effectively manage their properties and sales.
 
 ---
