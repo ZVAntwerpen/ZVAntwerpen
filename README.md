@@ -19,8 +19,8 @@ I'm currently focusing hard on improving my skiils:
 ---
 
 ## Skills
--**Languages**💬: HTML, SQL, Delphi
-
+-**Languages**💬: Delphi
+-**Other**💻: HTML, SQL
 ---
 
 ## Projects
