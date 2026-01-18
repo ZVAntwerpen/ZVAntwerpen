@@ -1,8 +1,8 @@
 <img src="ZVAntwerpen_Banner.png" alt="Banner"/>
 
-## Zandré van Antwerpen 👋
+## Zandré van Antwerpen 
 
-🎓 BSc IT Student @ North-West University | 💻 Exploring Software Development | 🧠 Always Learning
+BSc IT Student @ North-West University | 💻 Exploring Software Development | Always Learning
 
 ---
 
@@ -23,8 +23,8 @@ Right now, I’m working on improving my programming skills and exploring differ
 
 ## Skills
 
-- **Languages**💬: Delphi, Python
-- **Other**💻: HTML, SQL
+- **Languages**: Delphi, Python
+- **Other**: HTML, SQL
 
 ---
 
