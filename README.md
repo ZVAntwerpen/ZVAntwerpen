@@ -60,7 +60,7 @@ I'm a second-year IT student passionate about understanding how software works u
 ### 📂 Featured Projects
 
 <details>
-<summary><b>High School Portfolio</b></summary>
+<summary><b>High School Projects</b></summary>
 
 These projects represent my journey into programming during high school:
 
@@ -81,7 +81,7 @@ These projects represent my journey into programming during high school:
 
 ### 💬 Let's Connect
 
-I'm always open to collaborating on projects, discussing tech, or just connecting with fellow developers. Feel free to reach out!
+I'm always open to collaborating on projects, discussing tech or just connecting with fellow developers. Feel free to reach out!
 
 📧 **Email:** [zandreva12@gmail.com](mailto:zandreva12@gmail.com)  
 
