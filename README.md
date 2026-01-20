@@ -7,7 +7,7 @@
 **BSc IT Student @ North-West University** |  Software Development & Security Enthusiast |  Always Learning
 
 [![Email](https://img.shields.io/badge/Email-zandreva12%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zandreva12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/zandré-van-antwerpen-2107b431b)
 [![GitHub followers](https://img.shields.io/github/followers/ZVAntwerpen?label=Follow&style=social)](https://github.com/ZVAntwerpen)
 
 </div>
@@ -66,7 +66,7 @@ These projects represent my journey into programming during high school:
 
 - **[Monster Math](https://github.com/ZVAntwerpen/Monster_Math)** — Grade 10 educational game for primary school math practice
 - **[Retail App](https://github.com/ZVAntwerpen/Retail_App)** — Grade 11 business management system for inventory tracking
-- **[Properties](https://github.com/ZVAntwerpen/Properties)** — Grade 12 real estate management application *(coming soon)*
+- **[Properties](https://github.com/ZVAntwerpen/Properties_App)** — Grade 12 real estate management application *(coming soon)*
 
 </details>
 
