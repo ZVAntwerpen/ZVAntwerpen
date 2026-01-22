@@ -65,7 +65,7 @@ These projects represent my journey into programming during high school:
 
 - **[Monster Math](https://github.com/ZVAntwerpen/Monster_Math)** — Grade 10 educational game for primary school math practice
 - **[Retail App](https://github.com/ZVAntwerpen/Retail_App)** — Grade 11 business management system for inventory tracking
-- **[Properties](https://github.com/ZVAntwerpen/Properties_App)** — Grade 12 real estate management application *(coming soon)*
+- **[Properties](https://github.com/ZVAntwerpen/Properties_App)** — Grade 12 real estate management application
 
 </details>
 
