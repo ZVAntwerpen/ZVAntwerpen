@@ -20,7 +20,6 @@ I'm a second-year IT student passionate about understanding how software works u
 
 -  Getting into **CTF competitions** and security challenges
 -  Comfortable working in **Linux environments**
--  Experimenting with **Blender** in my free time
 -  Always curious, always coding
 
 ---
