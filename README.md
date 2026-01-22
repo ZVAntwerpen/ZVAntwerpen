@@ -79,7 +79,7 @@ These projects represent my journey into programming during high school:
 
 ---
 
-### 💬 Let's Connect
+### Let's Connect
 
 I'm always open to collaborating on projects, discussing tech or just connecting with fellow developers. Feel free to reach out!
 
